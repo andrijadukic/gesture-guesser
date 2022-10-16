@@ -11,6 +11,6 @@ UI, users can collect and classify arbitrary handwritten symbols, persisting the
 
 ## gesture-guesser
 
-By running the [GestureCollectorApp](src/main/java/neural/gui/collecting/GestureGuesserApp.java), users first train and
+By running the [GestureGuesserApp](src/main/java/neural/gui/collecting/GestureGuesserApp.java), users first train and
 configure the neural network, then, through the given UI can provide the neural network with handwritten gestures,
 classifying the samples as they go.
